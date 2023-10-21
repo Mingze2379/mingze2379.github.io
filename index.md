@@ -16,7 +16,7 @@ I am currently a fourth year computing science student at the [University of Alb
   </li>
 
   <li>
-    2023.5 - Check our final report <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
+    2023.5 - Check our final report of Combinatorics and Knot Theory for RNA-DNA Complexes <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
   </li>
   <li>
     2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes with Professor <a href="https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
