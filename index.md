@@ -29,7 +29,7 @@ My hobbies include playing table tennis and practicing calligraphy.
 
 <ul>
   <li>
-    I started table tennis training when I was six years old and continued systematic trainings since then. I am currently top 80 table tennis player in Canada. Check my Table Tennis Canada Rating <a href="http://ttcan.ca/en/home/rating.aspx">here</a>. A <a href="https://www.youtube.com/watch?app=desktop&v=p_woUm-cKKM">video</a> recorded by the Stiga Table Tennis China in the tournament.
+    I started table tennis training when I was six years old and continued systematic trainings since then. I am currently top 80 table tennis player in Canada (<a href="http://ttcan.ca/en/home/rating.aspx">Rating</a>). Here is a <a href="https://www.youtube.com/watch?app=desktop&v=p_woUm-cKKM">video</a> recorded by the Stiga Table Tennis China in the tournament.
   </li>
   <li>
     
