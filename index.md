@@ -14,7 +14,7 @@ I am currently a fourth year computing science student at the [University of Alb
   <li>
     2023.6 - Started working on statistical machine learning for healthcare with <a href="https://www.linkedin.com/in/ting-tan-62248b171/?originalSubdomain=fr">Ting Tan</a> and <a href="https://sites.google.com/view/liukang/home?authuser=0">Kang Liu</a>.
   </li>
-  <ul>
+
   <li>
     2023.5 - [Check our final report here](https://vxml.pims.math.ca/projects/2022-2023/combinatorics/).
   </li>
