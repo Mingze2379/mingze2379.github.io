@@ -9,7 +9,7 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    2023.9 - Work as a Teaching Assistant for [CMPUT 175](https://apps.ualberta.ca/catalogue/course/cmput/175)
+    2023.9 - Work as a Teaching Assistant for <a href="https://apps.ualberta.ca/catalogue/course/cmput/175">CMPUT 175</a>
   </li>
   <li>
     2023.6 - Started working on statistical machine learning for healthcare with [Ting Tan](https://www.linkedin.com/in/ting-tan-62248b171/?originalSubdomain=fr) and [Kang Liu](https://sites.google.com/view/liukang/home?authuser=0).
@@ -27,9 +27,6 @@ My hobbies include playing table tennis and practicing calligraphy.
 <ul> <!-- 开始无序列表 -->
   <li>
     Top 80 table tennis player in Canada. Check my Table Tannis Canada Rating [here](http://ttcan.ca/en/home/rating.aspx)
-  </li>
-  <li>
-    2023.6 - Started working on statistical machine learning for healthcare with [Ting Tan](https://www.linkedin.com/in/ting-tan-62248b171/?originalSubdomain=fr) and [Kang Liu](https://sites.google.com/view/liukang/home?authuser=0).
   </li>
 </ul> <!-- 结束无序列表 -->
 
