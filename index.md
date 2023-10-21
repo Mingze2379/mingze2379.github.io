@@ -16,10 +16,10 @@ I am currently a fourth year computing science student at the [University of Alb
   </li>
 
   <li>
-    2023.5 - [Check our final report here](https://vxml.pims.math.ca/projects/2022-2023/combinatorics/).
+    2023.5 - Check our final report <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
   </li>
   <li>
-    2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes with Professor [Chris Soteros](https://artsandscience.usask.ca/profile/CSoteros) and Professor [Margherita Maria Ferrari](https://www.mmferrari.net).
+    2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes with Professor <a href=https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
   </li>
 </ul>
 
@@ -29,7 +29,7 @@ My hobbies include playing table tennis and practicing calligraphy.
 
 <ul>
   <li>
-    Top 80 table tennis player in Canada. [Check my Table Tennis Canada Rating here](http://ttcan.ca/en/home/rating.aspx)
+    Top 80 table tennis player in Canada. Check my Table Tennis Canada Rating <a href="http://ttcan.ca/en/home/rating.aspx">here</a>.
   </li>
 </ul>
 
