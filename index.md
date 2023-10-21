@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-I am currently a fourth year computing science student at the [University of Alberta](https://www.ualberta.ca/index.html).
+I am currently a fourth year computing science student at the [University of Alberta](https://www.ualberta.ca/index.html). My research interests focus on machine learning, deep learning and AI for healthcare. 
 
 <h2 style="font-size: 26px;">News</h2>
 
@@ -16,7 +16,7 @@ I am currently a fourth year computing science student at the [University of Alb
   </li>
 
   <li>
-    2023.5 - Check our final report of Combinatorics and Knot Theory for RNA-DNA Complexes <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
+    2023.5 - Check our final report <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
   </li>
   <li>
     2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes with Professor <a href="https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
@@ -29,7 +29,10 @@ My hobbies include playing table tennis and practicing calligraphy.
 
 <ul>
   <li>
-    Top 80 table tennis player in Canada. Check my Table Tennis Canada Rating <a href="http://ttcan.ca/en/home/rating.aspx">here</a>.
+    I started table tennis training when I was six years old and continued systematic trainings since then. I am currently top 80 table tennis player in Canada. Check my Table Tennis Canada Rating <a href="http://ttcan.ca/en/home/rating.aspx">here</a>. A <a href="https://www.youtube.com/watch?app=desktop&v=p_woUm-cKKM">video</a> recorded by the Stiga Table Tennis China in the tournament.
+  </li>
+  <li>
+    
   </li>
 </ul>
 
