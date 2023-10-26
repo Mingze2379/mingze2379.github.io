@@ -9,7 +9,9 @@
   <li>
     CMPUT 328 - Visual Recognition (Deep Learning)
   </li>
+  <li>
     CMPUT 455 - Search, Knowledge and Simulation
+  </li>
   <li>
     CMPUT 466 - Machine Learning
   </li>
