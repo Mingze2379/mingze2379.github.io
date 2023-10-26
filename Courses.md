@@ -2,6 +2,18 @@
 
 
 <h2 style="font-size: 26px;">Courses that I am taking</h2>
+<ul> <!-- 开始无序列表 -->
+  <li>
+    CMPUT 304 - Algorithms II
+  </li>
+  <li>
+    CMPUT 328 - Visual Recognition (Deep Learning)
+  </li>
+    CMPUT 455 - Search, Knowledge and Simulation
+  <li>
+    CMPUT 466 - Machine Learning
+  </li>
+</ul>
 
 <style>
   body {
