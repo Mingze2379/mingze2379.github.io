@@ -1,5 +1,25 @@
 <h2 style="font-size: 26px;">Courses that I have completed</h2>
 
+<ul> <!-- 开始无序列表 -->
+  <li>
+    CMPUT 201 - Practical Programming Methodology
+  </li>
+  <li>
+    CMPUT 267 - Basics of Machine Learning
+  </li>
+  <li>
+    CMPUT 340 - Introduction to Numerical Methods
+  </li>
+  <li>
+    CMPUT 355 - Games, Puzzles, Algorithms
+  </li>
+  <li>
+    CMPUT 365 - Introduction to Reinforcement Learning
+  </li>
+  <li>
+    CMPUT 366 - Search and Planning in Artificial Intelligence
+  </li>
+</ul>
 
 <h2 style="font-size: 26px;">Courses that I am taking</h2>
 <ul> <!-- 开始无序列表 -->
