@@ -1,3 +1,7 @@
+<h2 style="font-size: 26px;">Courses that I have completed</h2>
+
+
+<h2 style="font-size: 26px;">Courses that I am taking</h2>
 
 <style>
   body {
