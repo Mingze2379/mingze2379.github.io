@@ -5,7 +5,16 @@
     CMPUT 201 - Practical Programming Methodology
   </li>
   <li>
+    CMPUT 204 - Algorithms
+  </li>
+  <li>
     CMPUT 267 - Basics of Machine Learning
+  </li>
+  <li>
+    CMPUT 272 - Formal Systems and Logic in Computing Science
+  </li>
+  <li>
+    CMPUT 291 - Introduction to File and Database Management
   </li>
   <li>
     CMPUT 340 - Introduction to Numerical Methods
@@ -35,6 +44,10 @@
   <li>
     CMPUT 466 - Machine Learning
   </li>
+  <li>
+    CMPUT 495 - Honors Seminar
+  </li>
+  
 </ul>
 
 <style>
