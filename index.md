@@ -3,8 +3,7 @@ layout: page
 title: "About me"
 ---
 
-I am currently a fourth year computing science student at the [University of Alberta](https://www.ualberta.ca/index.html). My research interests focus on machine learning, deep learning and AI for healthcare. 
-
+I am currently a fourth year computing science student at the [University of Alberta](https://www.ualberta.ca/index.html).
 <h2 style="font-size: 26px;">News</h2>
 
 <ul> <!-- 开始无序列表 -->
