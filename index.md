@@ -31,7 +31,7 @@ My hobbies include playing table tennis and practicing calligraphy.
     I started table tennis training when I was six years old and continued systematic trainings since then. I am currently a top 80 table tennis player in Canada (<a href="http://ttcan.ca/en/home/rating.aspx">Rating</a>). Here is a <a href="https://www.youtube.com/watch?app=desktop&v=p_woUm-cKKM">video</a> recorded by the Stiga Table Tennis China in the tournament.
   </li>
   <li>
-    Check my calligraphy works <a href="https://github.com/Mingze2379/mingze2379.github.io/blob/master/images/IMG_2631.JPG">here</a>.
+    Check my calligraphy works <a href="https://github.com/Mingze2379/mingze2379.github.io/images/IMG_2631.JPG">here</a>.
   </li>
 </ul>
 
