@@ -3,15 +3,18 @@ layout: page
 title: "About me"
 ---
 
-I am currently a fourth year computing science student at the [University of Alberta](https://www.ualberta.ca/index.html).
+I am currently a fourth year computing science student at the [University of Alberta](https://www.ualberta.ca/index.html). My potential research interest lies in deep learning and reinforcement learning.
 <h2 style="font-size: 26px;">News</h2>
 
 <ul> <!-- 开始无序列表 -->
   <li>
+    2023.11 - Get accepted by <a href="https://vxml.pims.math.ca">PIMS VXML. Continue to work on Combinatorics and Knot Theory for RNA-DNA Complexes.
+  </li>
+  <li>
     2023.9 - Work as a Teaching Assistant for <a href="https://apps.ualberta.ca/catalogue/course/cmput/175">CMPUT 175</a>.
   </li>
   <li>
-    2023.6 - Start working on statistical machine learning for healthcare with <a href="https://www.linkedin.com/in/ting-tan-62248b171/?originalSubdomain=fr">Ting Tan</a> and <a href="https://sites.google.com/view/liukang/home?authuser=0">Kang Liu</a>.
+    2023.6 - Start working on statistical machine learning for heart disease classification with <a href="https://www.linkedin.com/in/ting-tan-62248b171/?originalSubdomain=fr">Ting Tan</a> and <a href="https://sites.google.com/view/liukang/home?authuser=0">Kang Liu</a>.
   </li>
 
   <li>
