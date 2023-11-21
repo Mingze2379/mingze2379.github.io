@@ -8,7 +8,7 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    2023.11 - Get accepted by <a href="https://vxml.pims.math.ca">PIMS VXML. Continue to work on Combinatorics and Knot Theory for RNA-DNA Complexes.
+    2023.11 - Get accepted by <a href="https://vxml.pims.math.ca">PIMS VXML.</a> Continue to work on Combinatorics and Knot Theory for RNA-DNA Complexes.
   </li>
   <li>
     2023.9 - Work as a Teaching Assistant for <a href="https://apps.ualberta.ca/catalogue/course/cmput/175">CMPUT 175</a>.
