@@ -17,6 +17,12 @@
     CMPUT 291 - Introduction to File and Database Management
   </li>
   <li>
+    CMPUT 304 - Algorithms II
+  </li>
+  <li>
+    CMPUT 328 - Visual Recognition (Deep Learning)
+  </li>
+  <li>
     CMPUT 340 - Introduction to Numerical Methods
   </li>
   <li>
@@ -28,21 +34,24 @@
   <li>
     CMPUT 366 - Search and Planning in Artificial Intelligence
   </li>
-</ul>
-
-<h2 style="font-size: 26px;">Courses that I am taking</h2>
-<ul> <!-- 开始无序列表 -->
-  <li>
-    CMPUT 304 - Algorithms II
-  </li>
-  <li>
-    CMPUT 328 - Visual Recognition (Deep Learning)
-  </li>
   <li>
     CMPUT 455 - Search, Knowledge and Simulation
   </li>
   <li>
     CMPUT 466 - Machine Learning
+  </li>
+</ul>
+
+<h2 style="font-size: 26px;">Courses that I am taking</h2>
+<ul> <!-- 开始无序列表 -->
+  <li>
+    CMPUT 411 - Introduction to Computer Graphics
+  </li>
+  <li>
+    CMPUT 428 - Computer Vision
+  </li>
+  <li>
+    CMPUT 469 - Artificial Intelligence Capstone
   </li>
   <li>
     CMPUT 495 - Honors Seminar
