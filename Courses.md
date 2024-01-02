@@ -48,7 +48,7 @@
     CMPUT 411 - Introduction to Computer Graphics
   </li>
   <li>
-    CMPUT 428 - Computer Vision
+    CMPUT 428 - 3D Computer Vision
   </li>
   <li>
     CMPUT 469 - Artificial Intelligence Capstone
