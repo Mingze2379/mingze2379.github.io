@@ -20,7 +20,7 @@
     CMPUT 304 - Algorithms II
   </li>
   <li>
-    CMPUT 328 - Visual Recognition (Deep Learning)
+    CMPUT 328 - Visual Recognition with Deep Learning
   </li>
   <li>
     CMPUT 340 - Introduction to Numerical Methods
