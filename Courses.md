@@ -45,6 +45,9 @@
 <h2 style="font-size: 26px;">Courses that I am taking</h2>
 <ul> <!-- 开始无序列表 -->
   <li>
+    CMPUT 206 - Introduction to Digital Image Processing
+  </li>
+  <li>
     CMPUT 411 - Introduction to Computer Graphics
   </li>
   <li>
