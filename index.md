@@ -8,7 +8,8 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    # 2024.1 - New research project Visual Stimuli Reconstruction using Multi-subject fMRI Data launched, supervised by Tony Yousefnezhad.
+    <!-- 2024.1 - New research project Visual Stimuli Reconstruction using Multi-subject fMRI Data launched, supervised by Tony Yousefnezhad.
+    -->
   </li>
   <li>
     2023.11 - Get accepted by <a href="https://vxml.pims.math.ca">PIMS VXML</a>. Continue to work on Combinatorics and Knot Theory for RNA-DNA Complexes.
