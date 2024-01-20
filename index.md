@@ -44,7 +44,7 @@ My hobbies include playing table tennis and practicing calligraphy.
 
 <style>
   body {
-    margin: 20px; /* 设置上下左右页边距为20像素 */
+    margin: 25px; /* 设置上下左右页边距为20像素 */
     padding: 0; /* 可以设置内边距为0，如果不需要内边距 */
     background-color: #ffffff; /* 可以设置页面背景颜色 */
     color: #000000; /* 可以设置文本颜色 */
