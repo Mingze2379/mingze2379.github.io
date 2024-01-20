@@ -8,7 +8,7 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    -- 2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega and Russ Greiner.
+    -- 2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and Russ Greiner.
     
   </li>
   <li>
