@@ -8,7 +8,7 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and Russ Greiner.
+    2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and <a href="https://rgreiner6.wixsite.com/greiner"> Russell Greiner </a>.
     
   </li>
   <li>
@@ -44,7 +44,7 @@ My hobbies include playing table tennis and practicing calligraphy.
 
 <style>
   body {
-    margin: 30px; /* 设置上下左右页边距为20像素 */
+    margin: 20px; /* 设置上下左右页边距为20像素 */
     padding: 0; /* 可以设置内边距为0，如果不需要内边距 */
     background-color: #ffffff; /* 可以设置页面背景颜色 */
     color: #000000; /* 可以设置文本颜色 */
