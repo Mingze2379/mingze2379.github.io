@@ -8,7 +8,7 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    -- 2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and Russ Greiner.
+    2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and Russ Greiner.
     
   </li>
   <li>
@@ -25,7 +25,7 @@ I am currently a fourth year computing science student at the [University of Alb
     2023.5 - Check our final report <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
   </li>
   <li>
-    2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes with Professor <a href="https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
+    2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes, supervised by Professor <a href="https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
   </li>
 </ul>
 
