@@ -11,7 +11,7 @@ I am currently a fourth year computing science student at the [University of Alb
     2024.3 - Our 3D Computer Vision course project Learning Based Real-Time Object Tracking through Motion Vector Predictions on Motion Blur <a href="https://github.com/HuangJiaChen1/CV-final-project"> (github repo) </a>.
   </li>
   <li>
-    2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and <a href="https://rgreiner6.wixsite.com/greiner"> Russell Greiner </a>.
+    2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and <a href="https://rgreiner6.wixsite.com/greiner"> Russell Greiner</a> <a href="https://github.com/AthonyChen/Russellers"> (github repo) </a>.
     
   </li>
   <li>
