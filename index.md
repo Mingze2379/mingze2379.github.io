@@ -8,27 +8,30 @@ I am currently a fourth year computing science student at the [University of Alb
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    2024.3 - Our 3D Computer Vision course project Learning Based Real-Time Object Tracking through Motion Vector Predictions on Motion Blur. <a href="https://github.com/HuangJiaChen1/CV-final-project"> (github repo) </a>
+    2024.6 - Graduated from the University of Alberta with First Class Honors in Computing Science.
   </li>
   <li>
-    2024.1 - New research project Active learning for Medical Image Segmentation launched, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and <a href="https://rgreiner6.wixsite.com/greiner"> Russell Greiner</a>. <a href="https://github.com/AthonyChen/Russellers"> (github repo) </a>
+    2024.3 - 3D Computer Vision course project Learning Based Real-Time Object Tracking through Motion Vector Predictions on Motion Blur. <a href="https://github.com/HuangJiaChen1/CV-final-project"> (github repo) </a>
+  </li>
+  <li>
+    2024.1 - CMPUT 469 course project Active learning for Medical Image Segmentation, supervised by <a href="https://robertoivega.com/en/"> Roberto Vega</a> and <a href="https://rgreiner6.wixsite.com/greiner"> Russell Greiner</a>. <a href="https://github.com/AthonyChen/Russellers"> (github repo) </a>
     
   </li>
   <li>
-    2023.11 - Get accepted by <a href="https://vxml.pims.math.ca">PIMS VXML</a>. Continue to work on Combinatorics and Knot Theory for RNA-DNA Complexes.
+    2023.11 - Got accepted by <a href="https://vxml.pims.math.ca">PIMS VXML</a>. Continue to work on Combinatorics and Knot Theory for RNA-DNA Complexes.
   </li>
   <li>
-    2023.9 - Work as a Teaching Assistant for <a href="https://apps.ualberta.ca/catalogue/course/cmput/175">CMPUT 175</a> at the University of Alberta in Fall 2023 and Winter 2024.
+    2023.9 - Worked as a Teaching Assistant for <a href="https://apps.ualberta.ca/catalogue/course/cmput/175">CMPUT 175</a> at the University of Alberta in Fall 2023 and Winter 2024.
   </li>
   <li>
     2023.6 - Start working on statistical machine learning for heart disease classification with <a href="https://www.linkedin.com/in/ting-tan-62248b171/?originalSubdomain=fr">Ting Tan</a> and <a href="https://sites.google.com/view/liukang/home?authuser=0">Kang Liu</a>.
   </li>
 
   <li>
-    2023.5 - Check our final report <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">here</a>.
+    2023.5 - Combinatorics and Knot Theory for RNA-DNA Complexes <a href="https://vxml.pims.math.ca/projects/2022-2023/combinatorics">Final report</a> .
   </li>
   <li>
-    2022.10 - I am glad to work on Combinatorics and Knot Theory for RNA-DNA Complexes, supervised by Professor <a href="https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
+    2022.10 - New research project Combinatorics and Knot Theory for RNA-DNA Complexes supervised by Professor <a href="https://artsandscience.usask.ca/profile/CSoteros">Chris Soteros</a> and Professor <a href="https://www.mmferrari.net">Margherita Maria Ferrari</a>.
   </li>
 </ul>
 
