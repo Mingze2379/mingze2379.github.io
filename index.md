@@ -3,12 +3,12 @@ layout: page
 title: "About Me"
 ---
 
-I am currently a first year Master of Philosophy (MPhil) student at the Hong Kong University of Science and Technology (Guangzhou). Before that, I got my bachelor degree from the [University of Alberta](https://www.ualberta.ca/index.html) with First Class Honors in Computing Science.
+I am currently a first year Master of Philosophy (MPhil) student at the Hong Kong University of Science and Technology (Guangzhou). Before that, I got my bachelor degree from the [University of Alberta](https://www.ualberta.ca/index.html) with First-Class Honors in Computing Science.
 <h2 style="font-size: 26px;">News</h2>
 
 <ul> <!-- 开始无序列表 -->
   <li>
-    2024.6 - Graduate from the University of Alberta with First Class Honors in Computing Science.
+    2024.6 - Graduate from the University of Alberta with First-Class Honors in Computing Science.
   </li>
   <li>
     2024.3 - 3D Computer Vision course project Learning Based Real-Time Object Tracking through Motion Vector Predictions on Motion Blur. <a href="https://github.com/HuangJiaChen1/CV-final-project"> (github repo) </a>
