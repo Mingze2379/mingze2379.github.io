@@ -1,4 +1,4 @@
-<h2 style="font-size: 26px;">Courses that I have completed</h2>
+<h2 style="font-size: 26px;"> Completed Courses </h2>
 
 <ul> <!-- 开始无序列表 -->
   <li>
@@ -6,6 +6,9 @@
   </li>
   <li>
     CMPUT 204 - Algorithms
+  </li>
+  <li>
+    CMPUT 206 - Introduction to Digital Image Processing
   </li>
   <li>
     CMPUT 267 - Basics of Machine Learning
@@ -35,23 +38,16 @@
     CMPUT 366 - Search and Planning in Artificial Intelligence
   </li>
   <li>
-    CMPUT 455 - Search, Knowledge and Simulation
-  </li>
-  <li>
-    CMPUT 466 - Machine Learning
-  </li>
-</ul>
-
-<h2 style="font-size: 26px;">Courses that I am taking</h2>
-<ul> <!-- 开始无序列表 -->
-  <li>
-    CMPUT 206 - Introduction to Digital Image Processing
-  </li>
-  <li>
     CMPUT 411 - Introduction to Computer Graphics
   </li>
   <li>
     CMPUT 428 - 3D Computer Vision
+  </li>
+  <li>
+    CMPUT 455 - Search, Knowledge and Simulation
+  </li>
+  <li>
+    CMPUT 466 - Machine Learning
   </li>
   <li>
     CMPUT 469 - Artificial Intelligence Capstone
@@ -59,7 +55,6 @@
   <li>
     CMPUT 495 - Honors Seminar
   </li>
-  
 </ul>
 
 <style>
