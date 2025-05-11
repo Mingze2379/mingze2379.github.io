@@ -3,11 +3,9 @@ layout: page
 title: "About Me"
 ---
 
-<!--
 I am currently a first year Master of Philosophy (MPhil) student at the Hong Kong University of Science and Technology (Guangzhou). Before that,
 I got my bachelor degree from the [University of Alberta](https://www.ualberta.ca/index.html) with First-Class Honors in Computing Science.
--->
-I am a undergraduate student at the University of Alberta.
+
 <h2 style="font-size: 26px;">News</h2>
 
 <ul> <!-- 开始无序列表 -->
